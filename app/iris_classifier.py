@@ -62,6 +62,3 @@ def preprocessDataAndPredict(sepal_length, sepal_width, petal_length, petal_widt
 
     pass
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
